@@ -1,0 +1,117 @@
+東森洋片 HD,http://120.84.96.161:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.33:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.50:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.55:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.55:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.62:808/hls/33/index.m3u8
+東森洋片 HD,http://120.84.96.78:808/hls/33/index.m3u8
+東森洋片 HD,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森電影,http://120.84.96.161:808/hls/32/index.m3u8
+東森電影,http://120.84.96.33:808/hls/32/index.m3u8
+東森電影,http://120.84.96.50:808/hls/32/index.m3u8
+東森電影,http://120.84.96.55:808/hls/32/index.m3u8
+東森電影,http://120.84.96.62:808/hls/32/index.m3u8
+東森電影,http://120.84.96.74:808/hls/32/index.m3u8
+東森電影,http://120.84.96.78:808/hls/32/index.m3u8
+東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
+龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.50:808/hls/35/index.m3u8
+龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥時代,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=lxsd
+龍華電影,http://218.32.47.179:18556/.m3u8
+龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?ct=19226&tid=MFEF1001328410013284&tsum=9839709ca0f37641c5d1ba962c3bc739
+鳳凰電影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+天映經典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b天映經典,http://120.84.96.66:808/hls/85/index.m3u8
+天映經典,http://120.84.96.33:808/hls/85/index.m3u8
+天映經典,http://120.84.96.31:808/hls/85/index.m3u8
+天映經典,http://120.84.96.50:808/hls/85/index.m3u8
+天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
+CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+CINEMAX,http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+CINEMAX,http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+金馬影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO Signature,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
+HBO HITS,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO Family,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+好萊塢電影 HD,http://www.372583307.top:4022/udp/233.50.201.228:5140
+好萊塢電影 HD,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊塢電影 HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+電影輪播,http://182.150.115.26:8091/custom27.m3u8
+4K超清電影,http://182.150.115.26:8091/custom28.m3u8
+BesTV,http://www.372583307.top:4022/udp/233.50.201.228:5140
+BesTV全球大片,http://182.150.115.26:8091/custom26.m3u8
+eHD看電影,http://182.150.115.26:8091/custom29.m3u8
+eHD看電影,http://home.0825.pro:4000/udp/239.93.42.47:5140
+Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+PANDA影院,http://182.151.211.171:808/hls/127/index.m3u8
+My Cinema Asia,http://210.210.155.37/uq2663/h/h193/index.m3u8
+女神經典影院,https://pull.kktv8.com/livekktv/99350550/playlist.m3u8
+女神經典影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+女神經典影院,https://pull.kktv8.com/livekktv/99350550.flv
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+天映電影,http://jyjxy.7766.org:808/hls/62/index.m3u8
+票房電影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+印度電影,http://23.237.10.66:16054
+每日影院,http://182.151.211.171:808/hls/128/index.m3u8
+經典再現,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
+高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+明星大片,http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
+東方影視,http://112.25.48.70/live/program/live/dsjpdhd/4000000/mnf.m3u8
+東北熱劇,http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8
+長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+長城精品,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
+峨嵋電影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+峨嵋電影,http://182.151.211.171:808/hls/58/index.m3u8
+峨嵋電影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
+電影輪播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+芒果樂搜,http://124.232.233.17:6610/000000001001/201600020010/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+CHC家庭影院,http://120.84.96.161:808/hls/36/index.m3u8
+CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
+CHC高清電影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+CHC高清電影,http://hls.yun.gehua.net.cn:8088/live/CHCHD_6000.m3u8
+CHC動作電影,http://120.84.96.161:808/hls/31/index.m3u8
+CHC動作電影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+CHC動作電影,http://hls.yun.gehua.net.cn:8088/live/Motion_2000.m3u8
+NewTV超級電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超級電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+NewTV超級電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+NewTV精品電影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://39.134.116.30:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓電影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888910/224/3221225769/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓電影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+黑莓電影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8

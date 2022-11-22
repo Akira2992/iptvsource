@@ -1,0 +1,368 @@
+緯來體育,http://218.32.47.179:18563/.m3u8
+緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+緯來體育,http://123.51.229.65:18509/.m3u8
+緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯高球,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯運動2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯魅力,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+ELEVEN體育1台,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
+ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
+ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
+智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+TMMA-TAIPEI MIXED MARTIAL ARTS,http://txtest-xp2p.p2p.huya.com/src/1099531740021-1099531740021-86381434524139520-2199063603498-10057-A-0-1.xs
+咪咕體育,http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+咪咕體育4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+咪咕籃球,http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8
+勁爆體育,http://yfsl.vsd.gehua.net.cn/live/JinBaoTiYuHD_6000.m3u8
+五星體育,http://112.25.48.70/live/program/live/ssty/4000000/mnf.m3u8
+五星體育,http://125.74.5.39/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星體育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+新視覺 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新視覺 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+新視覺 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+新視覺 HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225622/index.m3u8
+新視覺 HD,http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
+新視覺 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+廣東體育,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
+廣東體育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+廣東體育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
+廣東體育,http://mmitv.top/pltv/itouchtv.php?id=gdty
+廣東體育,http://121.51.249.19/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+遼寧體育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+曼聯官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+丹麥-Sportv2,http://23.237.10.66:16180
+丹麥-Sportv2,Http://51.79.82.208:16463
+丹麥-Sportv3,Http://51.79.82.208:16464
+日-J Sports 1[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+日-J Sports 2[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+日-J Sports 3[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日-女子摔跤,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
+馬-astro SuperSport 1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+AT&T Sportsnet Southwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54859
+AT&T Sportsnet,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54858
+Bally Sports Arizona,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120219
+Bally Sports Detroit,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120220
+Bally Sports Florida,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120231
+Bally Sports Great Lakes,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120225
+Bally Sports Midwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120227
+Bally Sports Netbase,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120233
+Bally Sports North,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120218
+Bally Sports Ohio,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120226
+Bally Sports Oklahoma,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120235
+Bally Sports Prime Ticket,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120240
+Bally Sports San Diego,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120223
+Bally Sports SoCal,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120221
+Bally Sports South,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120230
+Bally Sports Southwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120228
+Bally Sports Sun,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120232
+Bally Sports West,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120222
+Bally Sports Wisconsin,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120224
+beIN SPORTS 1 HD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5347.ts
+beIN SPORTS 2 HD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5345.ts
+beIN SPORTS 3 HD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5344.ts
+beIN SPORTS 4 HD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5342.ts
+beIN SPORTS 4 HD+,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5330.ts
+beIN Sports Connect Ñ,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/23399
+beIN Sports Connect,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9693
+BEIN SPORTS EXTRA 1 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/38145
+BEIN SPORTS EXTRA 2 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/55583
+beIN SPORTS Max 1 HD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5351.ts
+beIN Sports Xtra,https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+BEINSPORT 1 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/509
+BEINSPORT 2 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/56216
+BEINSPORT 3 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/513
+BEINSPORT 4 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/515
+BEINSPORT 5 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/517
+BEINSPORT 6 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/519
+BEINSPORT 7 HD,http://saw.duplex-ott.net:2052/802446037471117/802490737500994/521
+beIN-SPORTS 3,http://51.79.82.208:16065
+beIN-SPORTS FHD1,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17067.ts
+beIN-SPORTS FHD2,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17068.ts
+beIN-SPORTS FHD4,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17070.ts
+beIN-SPORTS FHD5,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17071.ts
+beIN-SPORTS FHD7,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17073.ts
+beIN-SPORTS HD4,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17057.ts
+beIN-SPORTS HD5,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17058.ts
+beIN-SPORTS HD7,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17060.ts
+beIN-SPORTS,http://51.79.82.208:16064
+BT Sports 4,http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
+BTN Sport,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11906
+CBS Sports HQ,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/331455
+CBS Sports,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8245
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+DD Sports,http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+EDGEsport,https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
+Eleven Sports Network,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/23217
+ESPN 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10881
+ESPN 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42910
+ESPN 3,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10880
+ESPN News,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11583
+ESPN News,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42908
+ESPN U,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42907
+ESPN,Http://51.79.82.208:16417
+ESPN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42909
+ESPN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
+ESPN+,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/32482
+ESR 24x7 eSports Network,https://eyeonesports.com/ES2RA-628g.m3u8
+Eurosport1 HD,http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
+Eurosport1 HD,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
+Eurosport2 HD,http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
+Eurosport2 HD,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2
+Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+Fox Sports 1,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42904
+Fox Sports 1,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71706
+Fox Sports 1,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8254
+Fox Sports 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42903
+Fox Sports 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71705
+Fox Sports 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8255
+Fox Sports Arizona,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18719
+Fox Sports Arizona,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71694
+Fox Sports Carolina,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/24681
+Fox Sports College Central,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18717
+Fox Sports College Pacific,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18716
+Fox Sports Detroit,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18715
+Fox Sports Detroit,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71689
+Fox Sports Florida,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/17974
+Fox Sports Florida,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71693
+Fox Sports Indiana,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/35678
+Fox Sports Kansas City Pl,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71702
+Fox Sports Kansas City,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71703
+Fox Sports Midwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71692
+Fox Sports NetBase,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71682
+Fox Sports North,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11295
+Fox Sports North,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71691
+Fox Sports Ohio,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18713
+Fox Sports Ohio,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71690
+Fox Sports Prime Ticket,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71685
+Fox Sports San Diego,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18711
+Fox Sports San Diego,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71687
+Fox Sports Soccer,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71704
+Fox Sports South East,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18709
+Fox Sports South West,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18708
+Fox Sports South,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18710
+Fox Sports South,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71697
+Fox Sports Southeast,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71698
+Fox Sports Southwest Pl,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71699
+Fox Sports Southwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71700
+Fox Sports SportsTime Ohio,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71683
+Fox Sports Sun,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/17301
+Fox Sports Sun,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71688
+Fox Sports Tennessee,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71686
+Fox Sports West,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18706
+Fox Sports West,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71696
+Fox Sports Wisconsin,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/18705
+Fox Sports Wisconsin,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71695
+Fox Sports YES Network,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/71684
+FOX Sports,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/331456
+FreeSports,https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+Fubo Sports Network,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+KBP Sports,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+MLB Network,http://89.187.175.143:80/3003/mpegts
+MLB Network,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/15009
+MLB,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/331458
+MLS,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/331459
+NBA TV,http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+NBA TV,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8246
+NBC Sports Bay Area Plus,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/131800
+NBC Sports Bay Area,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22899
+NBC Sports Boston,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22898
+NBC Sports California Plus 2,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/131802
+NBC Sports California Plus,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/131801
+NBC Sports California,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22897
+NBC Sports Chicago Plus,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/131803
+NBC Sports Chicago,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22896
+NBC Sports Northwest,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22895
+NBC Sports Philadelphia,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22894
+NBC Sports Washington,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/22892
+NFL - CBS Bears Chicago IL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117244
+NFL - CBS Bengals Cincinnati OH,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117242
+NFL - CBS Bills Giants Jets New York NY,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117243
+NFL - CBS Broncos Denver CO,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117245
+NFL - CBS Browns Clevland OH,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117246
+NFL - CBS Buccaneers St. Petersburg FL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117247
+NFL - CBS Cardinals Phoenix AZ,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117248
+NFL - CBS Chargers San Diego CA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117249
+NFL - CBS Chiefs Bears St. Louis MO,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117251
+NFL - CBS Chiefs Kansas City MO,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117250
+NFL - CBS Colts Fort Wayne IN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117252
+NFL - CBS Colts Indianapolis IN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117253
+NFL - CBS Dolphins Miami FL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117254
+NFL - CBS Falcons Atlanta GA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117255
+NFL - CBS Jaguars Jacksonville FL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117256
+NFL - CBS Panthers Charlotte NC,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117257
+NFL - CBS Patriots Boston MA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117258
+NFL - CBS Raiders Las Vegas NV,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117259
+NFL - CBS Ravens Baltimore MD,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117260
+NFL - CBS Steelers Pittsburgh PA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117261
+NFL - CBS Texans San Antonio TX,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117262
+NFL - CBS Titans Nashville TN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117263
+NFL - FOX 49ers San Francisco CA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117264
+NFL - FOX Bears Chicago IL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117265
+NFL - FOX Cardinals Phoenix AZ,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117266
+NFL - FOX Cowboys Dallas TX,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117267
+NFL - FOX Dolphins Miami FL,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117268
+NFL - FOX Eagles Philadelphia PA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117269
+NFL - FOX Falcons Atlanta GA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117270
+NFL - FOX Lions Detroit MI,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117271
+NFL - FOX Packers St. Louis MO,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117272
+NFL - FOX Rams Sacramento CA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117273
+NFL - FOX Redskins Baltimore MD,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117274
+NFL - FOX Redskins Washington DC,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117275
+NFL - FOX Saints New Orleans,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117276
+NFL - FOX Seahawks Seattle WA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117277
+NFL - FOX VikingsMinneapolis MN,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/117278
+NFL Network,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/26457
+NFL NOW,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8235
+NFL Red Zone HD (Only Available On Sunday) US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11955
+NHL Anaheim Ducks,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421902
+NHL Arizona Coyotes,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421901
+NHL Boston Bruins,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421900
+NHL Calgary Flames,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421898
+NHL Carolina Hurricanes,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421897
+NHL Chicago Blackhawks,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421896
+NHL Detroit Red Wings,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421892
+NHL Edmonton Oilers,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421891
+NHL Los Angeles Kings,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421889
+NHL Minnesota Wild,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421888
+NHL Montreal Canadiens,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421887
+NHL Nashville Predators,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421886
+NHL Network,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8236
+NHL New York Islanders,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421884
+NHL New York Rangers,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421883
+NHL Ottawa Senators,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421882
+NHL Seattle Kraken,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421871
+NHL St Louis Blues,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421878
+NHL Tampa Bay Lightning,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421877
+NHL Vancouver Canucks,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421875
+NHL Vegas Golden Knights,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421874
+NHL Winnipeg Jets,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/421872
+now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
+ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+Peacock NBC Sports US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/347953
+Pluto TV Pluto Action Sports,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
+Pluto TV SPORT : BeIN Sports Xtra,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+Pluto TV Unbeaten Esports,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+Premiere,http://51.79.82.208:16455
+Premiere,http://51.79.82.208:16456
+Red Bull TV HD,https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+SNY Sports Net New York,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11915
+Spectrum Sportsnet LA,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54857
+Spectrum Sportsnet,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54856
+Sports Grid,https://sportsgrid-vizio.amagi.tv/playlist.m3u8
+Sports Tonight,http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+Sports TV Plus,https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+SUPERSPORT 10 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2709.ts
+SUPERSPORT 11 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2710.ts
+SUPERSPORT 2 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2701.ts
+SUPERSPORT 4 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2703.ts
+SUPERSPORT 5 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2704.ts
+SUPERSPORT 6 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2705.ts
+SUPERSPORT 7 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2706.ts
+SUPERSPORT 8 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2707.ts
+SUPERSPORT 9 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2708.ts
+The Sportsman Channel,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/19384
+TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+TVRI Sport HD,http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+TVRI Sports,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+TVS Classic Sports,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+TVS Sports Bureau,https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+TVS Sports,https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+TVS Women Sports,https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+皮划艇,http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
+皮划艇直播+ICF皮划艇極限世界錦標賽,http://111.62.156.15/tx.flv.huya.com/src/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.flv?wsSecret=80c7f3c0eefdc831071a2b03409a1fd9&wsTime=6283b205&u=0&seqid=16527115572479730&ctype=tars_mp&fs=bgct&t=102
+足球-魅力足球,http://112.25.48.70/live/program/live/mlyyhd/4000000/mnf.m3u8
+足球-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+足球-魅力足球,http://183.207.255.190/live/program/live/mlyyhd/4000000/mnf.m3u8
+足球1,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
+足球2,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
+足球7,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
+足球-21/22德甲多特專場[體育重播],http://txtest-xp2p.p2p.huya.com/src/1099531728771-1099531728771-86333116142059520-2199063580998-10057-A-0-1.xs?wsSecret=8970b533023ef8c64cf241a7233f45b4&wsTime=6246cbad&u=0&seqid=16487204275270000&ctype=tars_mobile&fs=bgct&t=103
+足球-厄瓜多爾足球專場,http://111.62.156.15/tx.flv.huya.com/src/1099531728831-1099531728831-86333373840097280-2199063581118-10057-A-0-1.flv?wsSecret=f397b4f1448c3d5edac1a801ab802b20&wsTime=6283aad7&u=0&seqid=16527097192983160&ctype=tars_mp&fs=bgct&t=102
+足球-多特蒙德專場+21/22德甲多特專場,http://111.62.156.15/tx.flv.huya.com/src/1099531728771-1099531728771-86333116142059520-2199063580998-10057-A-0-1.flv?wsSecret=c96b5bb6f3db5101c193a97c2c5b0b31&wsTime=6283aad6&u=0&seqid=16527097181742808&ctype=tars_mp&fs=bgct&t=102
+足球-美洲杯小劇場,http://txtest-xp2p.p2p.huya.com/src/1099531728838-1099531728838-86333403904868352-2199063581132-10057-A-0-1.xs?wsSecret=e421ea01b4feec4d8eb6b4323d0d5f4f&wsTime=6246cbaf&u=0&seqid=16487204298560000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+足球-雷米特斯足球+足球基礎規則10,http://111.62.156.15/tx.flv.huya.com/src/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.flv?wsSecret=0bc794319ca49d20668750f3306cb787&wsTime=6283aad1&u=0&seqid=16527097131407800&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
+足球-德甲比賽精華1,http://111.62.156.15/tx.flv.huya.com/src/1099531728802-1099531728802-86333249286045696-2199063581060-10057-A-0-1.flv?wsSecret=9cb240d5f6cc18c27fce5327087f4b70&wsTime=6283aad6&u=0&seqid=16527097187329560&ctype=tars_mp&fs=bgct&t=102
+足球-德甲週刊第18期體育,http://txtest-xp2p.p2p.huya.com/src/1099531728788-1099531728788-86333189156503552-2199063581032-10057-A-0-1.xs?wsSecret=6745374bcdc4570ee2bcc119f3d891d6&wsTime=6246cbc6&u=0&seqid=16487204526820000&ctype=tars_mobile&fs=bgct&t=103
+足球德國甲級聯賽1場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
+足球德國甲級聯賽2場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
+足球德國甲級聯賽3場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
+足球德國甲級聯賽4場,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
+足球-德國足球甲級聯賽2+勒沃庫森7_1菲爾特,http://111.62.156.15/tx.flv.huya.com/src/0-0-0-2199063580966-10057-A-0-1.flv?wsSecret=c9516810fedce82ae6d3d010afd38aa4&wsTime=6283aacd&u=0&seqid=16527097099445250&ctype=tars_mp&txyp=o%3Awx91%3B&fs=bgct&t=102
+足球-德國足球甲級聯賽3 體育柏林赫塔1:2弗萊堡 2021/22賽季德甲[重播],http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580968-10057-A-0-1.xs?wsSecret=261a70b3135d9c9d1bf3a73511ccf08a&wsTime=6246cbf1&u=0&seqid=16487204954150000&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
+足球-德國足球甲級聯賽4 斯圖加特3:1霍芬海姆 2021/22德甲聯賽[重播],http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580970-10057-A-0-1.xs?wsSecret=181a901613fe2a0d155458d26d3b26b5&wsTime=6246cbd6&u=0&seqid=16487204689760000&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&t=103
+足球-德國足球甲級聯賽副舞臺 萊比錫惡戰多特 2021/22德甲聯賽[重播],http://txtest-xp2p.p2p.huya.com/src/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs?wsSecret=8801376a500a8429e3216cf871545f7d&wsTime=6246cbc3&u=0&seqid=16487204498990000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+虎牙斯克+[16點Qschool],http://111.62.156.15/tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=181655f2c2ace5527647e6f47e66cf3f&wsTime=6283a886&u=0&seqid=16527091263035970&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
+虎牙斯克副舞臺+[重播]決戰時刻,http://111.62.156.15/tx.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.flv?wsSecret=808bc790a428bcc860dfcb4bd50ff8be&wsTime=6283a876&u=0&seqid=16527091105722740&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
+撞球-小特賽事專場,http://txtest-xp2p.p2p.huya.com/src/1099531627782-1099531627782-85899371689803776-2199063379020-10057-A-0-1.xs
+撞球-足協杯山東專場-,http://txtest-xp2p.p2p.huya.com/src/1099531728830-1099531728830-86333369545129984-2199063581116-10057-A-0-1.xs
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+紅牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+棒球-中國職業棒球全壘打賽,http://111.62.156.15/tx.flv.huya.com/src/1099531739891-1099531739891-86380876178391040-2199063603238-10057-A-0-1.flv?wsSecret=ed44f97c35d637a689293b8b352ee8a9&wsTime=6283b056&u=0&seqid=16527111263048570&ctype=tars_mp&txyp=o%3Atyeic12%3B&fs=bgct&t=102
+拳擊-大眾拳擊體育館內賽 [重播],http://txtest-xp2p.p2p.huya.com/src/0-0-0-2399154152386-10057-A-0-1.xs
+摔跤格鬥-小亮 地域牢籠,http://txtest-xp2p.p2p.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.xs
+摔跤格鬥-MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.xs
+摔跤格鬥-MASFIGHT世界大獎賽,http://111.62.156.15/tx.flv.huya.com/src/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.flv?wsSecret=e5abe49f1dffe5d3fb3ad1b80b6e621a&wsTime=6283a6cc&u=0&seqid=16527086849687740&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&t=102
+摔跤格鬥-RAW摔角,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
+摔跤格鬥-WWE世界摔角,http://txtest-xp2p.p2p.huya.com/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.xs
+摔跤格鬥-WWE世界摔角-今日RAW,http://txtest-xp2p.p2p.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
+摔跤格鬥-WWE往期精彩節目,http://txtest-xp2p.p2p.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs?wsSecret=23e937bf5f8a82d5367679fbd94c00be&wsTime=6246cb81&u=0&seqid=16487203839200000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
+摔跤格鬥-WWE_RAW+群星擂臺戰！,http://111.62.156.15/tx.flv.huya.com/src/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.flv?wsSecret=81de112f831b291d27a2e27620b6a672&wsTime=6283a6b6&u=0&seqid=16527086629491060&ctype=tars_mp&txyp=o%3Acs7%3B&fs=bgct&t=102
+摔跤格鬥-WWE頂級大賽,http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.flv?wsSecret=0a935a3c5d9bcd1c18fb36c44284c7a9&wsTime=6283a6ba&u=0&seqid=16527086663696960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
+摔跤格鬥-小溪的柔韌空間,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
+摔跤格鬥-毒蛇蘭迪合集,http://111.62.156.15/tx.flv.huya.com/src/1099531728845-1099531728845-86333433969639424-2199063581146-10057-A-0-1.flv?wsSecret=345faaa2e6135dd94d380a1e1181d00b&wsTime=6283a6c2&u=0&seqid=16527086747419068&ctype=tars_mp&fs=bgct&t=102
+摔跤格鬥-美女摔跤,http://111.62.156.15/tx.flv.huya.com/src/1099531728893-1099531728893-86333640128069632-2199063581242-10057-A-0-1.flv?wsSecret=c38d7c4605ec67568a261fd09535c00a&wsTime=6283a6b2&u=0&seqid=16527086590296070&ctype=tars_mp&fs=bgct&t=102
+摔跤格鬥-鐵嶺二師兄+妹子們,http://111.62.156.15/tx.flv.huya.com/src/1099531728905-1099531728905-86333691667677184-2199063581266-10057-A-0-1.flv?wsSecret=e495ad5b850bfdf77f14c7a944b4fa2e&wsTime=6283a6b7&u=0&seqid=16527086640082400&ctype=tars_mp&fs=bgct&t=102
+摔跤格鬥-鐵籠賽專場,http://111.62.156.15/tx.flv.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.flv?wsSecret=7c62b76e9390f51ccf2453b3fbefc735&wsTime=6283a6b6&u=0&seqid=16527086620855680&ctype=tars_mp&fs=bgct&t=102
+障礙追逐賽,http://111.62.156.15/tx.flv.huya.com/src/1099531740128-1099531740128-86381894085640192-2199063603712-10057-A-0-1.flv?wsSecret=26354dba6524303d472a3f2cb0f6b2e2&wsTime=6283b05b&u=0&seqid=16527111318621760&ctype=tars_mp&fs=bgct&t=102
+賽車-奧迪R8LMS杯珠海站回顧,http://111.62.156.15/tx.flv.huya.com/src/1099531627826-1099531627826-85899560668364800-2199063379108-10057-A-0-1.flv?wsSecret=9e7123b624769d9e2d6da7467b10bf1e&wsTime=6283af29&u=0&seqid=16527108259847720&ctype=tars_mp&txyp=o%3Afz1%3B&fs=bgct&t=102
+賽車-路人王10月國際邀請賽,http://111.62.156.15/tx.flv.huya.com/src/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.flv?wsSecret=51b38869d19d96273eb2ec6c3c52d41d&wsTime=6283abbb&u=0&seqid=16527099477609190&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
+賽車-路人王南昌站,http://111.62.156.15/tx.flv.huya.com/src/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.flv?wsSecret=ab7bfe8a21271b69db030d2b7f023054&wsTime=6283abbb&u=0&seqid=16527099470370850&ctype=tars_mp&txyp=o%3Ad3%3B&fs=bgct&t=102
+賽車-電動方程式錦標賽[重播],http://txtest-xp2p.p2p.huya.com/src/1099531740125-1099531740125-86381881200738304-2199063603706-10057-A-0-1.xs
+撞球-斯克業餘大師總決賽,http://txtest-xp2p.p2p.huya.com/src/1099531728533-1099531728533-86332093939843072-2199063580522-10057-A-0-1.xs
+撞球-斯克業餘大師總決賽,http://111.62.156.15/tx.flv.huya.com/src/1099531728533-1099531728533-86332093939843072-2199063580522-10057-A-0-1.flv?wsSecret=89b680c781fd31a16dd048ae37aa5acf&wsTime=6283a88e&u=0&seqid=16527091341595960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
+撞球,http://txtest-xp2p.p2p.huya.com/src/1099531728991-1099531728991-86334061034864640-2199063581438-10057-A-0-1.xs
+撞球-斯諾克2,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
+籃球3,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
+籃球5,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
+籃球7,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
+籃球8,http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+籃球-周銳/黃宇軍,http://111.62.156.15/tx.flv.huya.com/src/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.flv?wsSecret=945adea4aed805a2e15fbee45fbe5e94&wsTime=6283aba6&u=0&seqid=16527099264586470&ctype=tars_mp&txyp=o%3Anceic2%3B&fs=bgct&t=102
+籃球-科蜜JJ+科比,http://111.62.156.15/tx.flv.huya.com/src/1099531627790-1099531627790-85899406049542144-2199063379036-10057-A-0-1.flv?wsSecret=0799eab76bb711aefdf0af2d6a0bf9e2&wsTime=6283abbc&u=0&seqid=16527099488806890&ctype=tars_mp&fs=bgct&t=102
+籃球-喬妹,http://111.62.156.15/tx.flv.huya.com/src/1099531740250-1099531740250-86382418071650304-2199063603956-10057-A-0-1.flv?wsSecret=6b3af788af3112d95d5b3537178a1970&wsTime=6283abb8&u=0&seqid=16527099445166350&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
+籃球-街波王子,http://111.62.156.15/tx.flv.huya.com/src/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.flv?wsSecret=1fe0c5ed726ee37965d642ec5e4e5924&wsTime=6283abbc&u=0&seqid=16527099482832690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
+籃球-街波王子,http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
+籃球-路人王2021年度總決賽,http://111.62.156.15/tx.flv.huya.com/src/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.flv?wsSecret=78cac20655fb9926a1c470f964553dd7&wsTime=6283abb4&u=0&seqid=16527099402004250&ctype=tars_mp&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
